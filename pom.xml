@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.knight.polaris</groupId>
-        <artifactId>polaris-parent</artifactId>
+        <artifactId>polaris-web-parent</artifactId>
         <version>1.0.1</version>
     </parent>
 
@@ -13,10 +13,6 @@
     <version>1.0.1</version>
     <name>polaris-cloud-parent</name>
     <packaging>pom</packaging>
-
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
 
     <dependencies>
 
